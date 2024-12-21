@@ -1,0 +1,27 @@
+.customization-container {
+    padding: 20px;
+  }
+  
+  .customization-options label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .customization-options select, 
+  .customization-options input[type="checkbox"] {
+    margin-left: 10px;
+  }
+  
+  .add-to-cart {
+    background-color: #ff6347;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .add-to-cart:hover {
+    background-color: #e5533d;
+  }
+  
